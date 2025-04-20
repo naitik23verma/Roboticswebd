@@ -13,11 +13,7 @@ function App() {
       <footer className="footer">
         <div className="contact-info">
           <p>Contact: roboticsclubmanit</p>
-          <div className="social-links">
-            <a href="#" aria-label="Instagram">📷</a>
-            <a href="#" aria-label="Twitter">🐦</a>
-            <a href="#" aria-label="Facebook">📘</a>
-          </div>
+          <p>made by Naitik Verma</p>
         </div>
       </footer>
     </div>
